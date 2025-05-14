@@ -6,8 +6,7 @@
 우리 팀의 구성은 다음과 같습니다.
 
 - 최홍제
-
-- [박시원](https://siwonpada.github.io/resume)
+- [박시원](https://github.com/siwonpada)
 
 
 <!--
