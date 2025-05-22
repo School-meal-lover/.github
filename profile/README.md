@@ -9,7 +9,8 @@
 - [박시원](https://github.com/siwonpada)
 - 박미솔
 - [이준성](https://github.com/Junseong0829)
-
+- [한세민](https://github.com/han299792)
+- 홍수아
 <!--
 
 **Here are some ideas to get you started:**
