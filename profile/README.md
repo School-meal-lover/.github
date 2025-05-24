@@ -7,7 +7,7 @@
 
 - 최홍제
 - [박시원](https://github.com/siwonpada)
-- 박미솔
+- [박미솔](https://github.com/misolpark)
 - [이준성](https://github.com/Junseong0829)
 - [한세민](https://github.com/han299792)
 - 홍수아
