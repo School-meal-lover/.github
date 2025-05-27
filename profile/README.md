@@ -5,7 +5,7 @@
 ## Members
 우리 팀의 구성은 다음과 같습니다.
 
-- 최홍제
+- [최홍제](https://github.com/enc2586)
 - [박시원](https://github.com/siwonpada)
 - [박미솔](https://github.com/misolpark)
 - [이준성](https://github.com/Junseong0829)
