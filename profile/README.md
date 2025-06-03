@@ -10,7 +10,7 @@
 - [박미솔](https://github.com/misolpark)
 - [이준성](https://github.com/Junseong0829)
 - [한세민](https://github.com/han299792)
-- 홍수아
+- [홍수아](https://github.com/SooaHong)
 <!--
 
 **Here are some ideas to get you started:**
